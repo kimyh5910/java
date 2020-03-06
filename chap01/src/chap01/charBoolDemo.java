@@ -34,7 +34,7 @@ public class charBoolDemo {
 		final double PI = 3.14; // 상수 선언, 값 3.14
 		final double PI2; // 빈 상수 선언
 		PI2 = 3.14; // 상수 값 최초 저장
-		PI2 = 3.1428; // 상수의 값 변경 시도, 오류 발생
+//		PI2 = 3.1428; // 상수의 값 변경 시도, 오류 발생
 	}
 
 }

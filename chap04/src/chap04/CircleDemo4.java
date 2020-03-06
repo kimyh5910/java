@@ -23,7 +23,7 @@ public class CircleDemo4 {
 		Circle4 myCircle = new Circle4(10.0);
 		myCircle.setRadius(10.0);;
 //		myCircle.show(myCircle.radius, myCircle.findArea());
-		myCircle.show(myCircle.getRadius(), myCircle.findArea());
+//		myCircle.show(myCircle.getRadius(), myCircle.findArea());
 	}
 
 }
